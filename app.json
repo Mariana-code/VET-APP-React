@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "marianaapp",
+    "slug": "vetapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bd53e522-12fc-4a3d-9a89-bebe76b07759"
+      }
+    },
+    "owner": "marianahdz"
+  },
+  "name": "marianaapp"
+}
